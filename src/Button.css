@@ -1,0 +1,21 @@
+/* Button.css */
+.button {
+    background-color: #e4d2f5 !important;
+    color: #000 !important;
+    border: none !important;
+    border-radius: 4px !important;
+    padding: 10px 20px !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    transition: background-color 0.3s ease !important;
+  }
+  
+  .button:hover {
+    background-color: #8762a5 !important;
+  }
+  
+  .button:focus {
+    outline: none !important;
+  }
+  
